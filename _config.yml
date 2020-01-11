@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sathis Anarudhan"
   avatar           : "/images/sathis.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Systems Engineer and Data science student"
+  bio              : "Systems Engineer / Data science student"
   location         : "Colombo, LK"
   email            :
   links:
