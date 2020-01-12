@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "Big Data Projects"
     url: /bigdata-programing/
   # - title: "About"
